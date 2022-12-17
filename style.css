@@ -1,0 +1,147 @@
+*
+{
+   padding: 0px;
+   margin: 0px;
+
+
+}
+
+.heading
+{
+    background-color: #3f5c9a;
+    width: 100%;
+    height: 90px;
+}
+.control-align
+{
+
+
+    height: 980px;
+    font-weight: 300px;
+    margin-left: auto;
+    margin-block-start: auto;
+    margin-right: auto;
+}
+.img-control
+{
+  float: left;  
+}
+.img-control img
+{
+    width: 250px;
+    height: 80px;
+    padding-left: 50px;
+    margin-left: 50px;
+}
+.login
+{
+ float: right; 
+ font-family: Arial;
+ font-size: 12px;
+ color: white;
+ margin-top: 20px;
+ padding-right: 85px;
+margin-right: 85px;
+}
+.inputtxt
+{
+    width: 115px;
+    height: 20px;
+    padding-right: 15px;
+    margin-right: 15px;
+}
+.btn
+{
+ background-color: #2980b9;
+ color: white;
+ font-family: Arial;
+ padding: 07px,07px,07px,07px;
+ border: none;
+ border-radius: 03px;
+ margin-left: 05px;
+}
+.login a
+{
+    color: white;
+    text-decoration: none;
+}
+.content-control
+{
+    width: 968px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.left
+{
+  float: left; 
+  margin-top: 40px; 
+  color: rgb(45, 45, 146);
+  font-family: Arial;
+}
+.left h3  
+/* space between txt n pic community */
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.community{
+    width: 400px;
+    height: 200px;
+}
+
+.right
+{
+   float: right;
+   /* margin-top:-350px; */
+   margin-right: -200px;
+}
+.ipt
+{ width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 05px;
+    border: none;
+    padding-left: 10px;
+    font-size: 15px;
+    border: 1px solid rgb(163, 163, 224);
+}
+.ipt2
+{
+    width: 340px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 05px;
+    border: none;
+    padding-left: 10px;
+    font-size: 15px;
+    
+    border: 1px solid rgb(186, 186, 226);
+}
+.dropdown
+{
+    width: 50px;
+    height: 30;
+}
+.hum
+{
+    font-family: Areal;
+    font-size: 12px;
+}
+.nk
+{
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 18px;
+}
+#submit
+{
+    width: 150px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    color:white;
+background-color:rgb(9, 48, 9);
+}
